@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="red">#e10b12</color>
+    <color name="blue">#1d2fd2</color>
+    <color name="sky">#06bcf4</color>
+    <color name="green">#14e92d</color>
+    <color name="pink">#f406bc</color>
+    <color name="yellow">#e8f406</color>
+    <color name="orange">#fc7a00</color>
+    <color name="grey">#a1949e</color>
+
+    <array name="boardColors">
+        <item>@color/red</item>
+        <item>@color/blue</item>
+        <item>@color/green</item>
+        <item>@color/pink</item>
+        <item>@color/yellow</item>
+        <item>@color/sky</item>
+        <item>@color/orange</item>
+    </array>
+</resources>

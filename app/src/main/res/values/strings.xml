@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flood Color</string>
+    <string name="replay">replay</string>
+    <string name="next">next</string>
+    <string name="you_win">You win</string>
+    <string name="you_lose">You lost</string>
+
+
+</resources>
